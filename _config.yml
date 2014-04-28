@@ -8,5 +8,4 @@ paginate: 10
 markdown: rdiscount
 permalink: pretty
 pygments: true
-baseurl:"/Jekyll-tutorial"
-
+baseurl: /jekyll-tutorial/

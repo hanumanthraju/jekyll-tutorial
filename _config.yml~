@@ -1,11 +1,11 @@
-name: "Christmas Recipes"
+name: "Jekyll Tutorial"
 description: "Jekyll sample tutorial"
 
-url: "http://localhost:4000"
+url: "http://hanumanthraju.github.io/jekyll-tutorial/"
 
 paginate: 10
 
 markdown: rdiscount
 permalink: pretty
 pygments: true
-
+baseurl: /jekyll-tutorial/
