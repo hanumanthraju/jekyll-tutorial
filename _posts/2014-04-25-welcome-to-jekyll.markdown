@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-04-18 13:56:24
+title:  "Welcome to Jekyll:2014-04-25"
+date:   2014-04-25 13:56:24
 categories: jekyll update
 ---
 

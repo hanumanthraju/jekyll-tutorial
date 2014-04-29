@@ -1,11 +1,11 @@
-name: "Jekyll Tutorial"
+name: "Jekyll sample tutorial"
 description: "Jekyll sample tutorial"
 
-url: "http://hanumanthraju.github.io/jekyll-tutorial/"
+url: "http://localhost:4001"
 
-paginate: 10
-
+host:        0.0.0.0
+port:        4001
+baseurl:     /jekyll-tutorial
 markdown: rdiscount
 permalink: pretty
 pygments: true
-baseurl: /jekyll-tutorial/
